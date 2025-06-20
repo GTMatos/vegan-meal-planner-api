@@ -20,6 +20,15 @@ This project is part of my backend developer growth path — practicing clean ar
 - Testcontainers (planned)
 - JUnit 5
 
+## 🪾 Branching & PR Process
+
+This project follows GitHub Flow:
+
+- All changes are made in topic branches (`feature/...`, `docs/...`, etc.)
+- Merges to `main` are done via pull requests
+- `main` branch is protected (no direct pushes, no force pushes)
+
+
 ## 🚀 How to Run Locally
 1. Clone the repo
 2. Run:
