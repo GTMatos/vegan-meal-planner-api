@@ -20,6 +20,15 @@ This project is part of my backend developer growth path — practicing clean ar
 - Testcontainers (planned)
 - JUnit 5
 
+## 🛠 Project Dependencies
+
+- `spring-boot-starter-web` — Spring MVC REST API framework (Tomcat embedded server)
+- `spring-boot-starter-security` — Spring Security (Basic Auth for now, JWT planned)
+- `spring-boot-starter-test` — JUnit 5, AssertJ, Mockito, Spring Boot test utilities
+- `lombok` — Reduces boilerplate (models, DTOs)
+
+Build: Gradle Kotlin DSL
+
 ## 🚀 How to Run Locally
 1. Clone the repo
 2. Run:
